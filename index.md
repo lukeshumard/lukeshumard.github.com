@@ -5,4 +5,4 @@ tagline:
 ---
 {% include JB/setup %}
 
-<a href="/versace">versace</a>
+<a href="/versace" style="text-align: center;">versace</a>
